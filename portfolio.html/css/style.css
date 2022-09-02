@@ -1,1 +1,26 @@
+.container {
+    display: contents center;
+    align-items: center;
+    justify-content: center;
+    image-orientation: center;
+}
+img {
+    max-width: 100%;
+
+}
+.image {
+    flex-basis: 100%;
+}
+.test-box {
+    border-left: 4px solid olive;
+    border-right: 4px solid olive;
+    border-top: 4px solid olive;
+    border-bottom:4px solid olive;
+    text-align: center;
+    mask-size: cover;
+}
+p {
+    font-style: normal;
+}
+
 
